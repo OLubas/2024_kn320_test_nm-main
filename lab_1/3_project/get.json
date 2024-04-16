@@ -1,0 +1,14 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+    "Accept-Encoding": "deflate, gzip, br", 
+    "Accept-Language": "en-US,en;q=0.5", 
+    "Cookie": "euConsent=true; BCPermissionLevel=PERSONAL; BC_GDPR=11111; fhCookieConsent=true; gdpr-source=GB; gdpr_consent=YES; beget=begetok; SOCS=CAISNQgEEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwNzIzLjA5X3AwGgJlbiACGgYIgMSBpgY", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:77.0) Gecko/20190101 Firefox/77.0", 
+    "X-Amzn-Trace-Id": "Root=1-661a4d28-705ca37f0d50b70a036377c7"
+  }, 
+  "origin": "95.161.76.37", 
+  "url": "https://httpbin.org/get"
+}
